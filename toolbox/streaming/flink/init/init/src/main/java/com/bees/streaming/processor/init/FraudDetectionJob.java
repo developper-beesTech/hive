@@ -60,7 +60,7 @@ public class FraudDetectionJob {
             flagState = getRuntimeContext().getState(flagDescriptor);
             timerState = getRuntimeContext().getState(timerDescriptor);
 
-            var lastTransactionWasSmall = flagState.value();
+            Boolean lastTransactionWasSmall = flagState.value();
 
             if (lastTransactionWasSmall != null) {
                 if (transaction.getAmount() > LARGE_AMOUNT) {
