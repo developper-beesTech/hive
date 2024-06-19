@@ -28,3 +28,11 @@
 ## Week 4: Data and Kafka Certification Preparation
 - Public datasets or synthetic data (Kaggle, Google Cloud Public Datasets, AWS Public Datasets, Apache NiFi)
 - Kafka Certification
+
+### TODO
+
+- install teraform
+- provision a kafka env with confluent and local 
+- confluent platfor; with flin ( flink action)
+- Monitoring security and service mesh
+
