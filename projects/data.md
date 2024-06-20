@@ -15,6 +15,8 @@
 - Kubernetes cluster (GKE, EKS, AKS)
 - Apache Kafka
 - Apache Flink
+- Iceberg
+- Pinot
 
 ## Week 2: Data Processing Design and Implementation
 - Kafka
