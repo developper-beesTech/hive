@@ -5,9 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58091207-de9e-493d-9e59-4d0f5902040e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/infra/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/source/checks.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infra/source/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0da90a7c0eb1a52aea3e272e726e7b9d3b826b56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30e36dd5f70d9b4121944c34d36105628d627816" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48ed3d87d5d66708e7aa266199d91d32c3f42841" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a6ae52af9955fa00a9f6a4b0f9b264ccde806a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa5dfd8136aadd5c7040c5da885bf06e50e7de0a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b97093d72ea8f07b04bf4e79cfd13f00a2f707e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d11b6795d4a8fa6216733d3dd47976fe5486f25e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d907e876aa9131b6a8ddbf2862d56bb82446b605" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef8def03dc8f162799089e9b5f4321201c8810d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/d/0da90a7c0eb1a52aea3e272e726e7b9d3b826b56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/0/30e36dd5f70d9b4121944c34d36105628d627816" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/48ed3d87d5d66708e7aa266199d91d32c3f42841" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a6ae52af9955fa00a9f6a4b0f9b264ccde806a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aa5dfd8136aadd5c7040c5da885bf06e50e7de0a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/9/b97093d72ea8f07b04bf4e79cfd13f00a2f707e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/1/d11b6795d4a8fa6216733d3dd47976fe5486f25e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/9/d907e876aa9131b6a8ddbf2862d56bb82446b605" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/f/ef8def03dc8f162799089e9b5f4321201c8810d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/processor/src/main/java/com/bees/checks/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19bf77d5002e6fda4ee74a6d22b69fa37d50501b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41833b97c4c60d816ba5e31193df464244f920f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60cb4899109533f60520cbb5addb3b0def10d26d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c60a24ae0cd68443d930af94bdfad6b1df774cc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/9/19bf77d5002e6fda4ee74a6d22b69fa37d50501b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/1/41833b97c4c60d816ba5e31193df464244f920f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/0/60cb4899109533f60520cbb5addb3b0def10d26d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c60a24ae0cd68443d930af94bdfad6b1df774cc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/.gradle/ideaInitScripts/ijtgtmapper.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/.gradle/ideaInitScripts/ijtgtmapper.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/src/main/java/com/bees/streaming/processor/init/FraudDetectionJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/src/main/java/com/bees/checks/CheckProcessorJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/src/main/java/com/bees/streaming/processor/init/InitApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/src/main/java/com/bees/checks/CheckProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init/src/test/java/com/bees/streaming/processor/init/InitApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/processor/src/test/java/com/bees/checks/InitApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/.gradle/ideaInitScripts/ijtgtmapper.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/src/main/java/com/bees/streaming/processor/init/FraudDetectionJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/src/main/java/com/bees/streaming/processor/init/InitApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toolbox/streaming/flink/init/init/src/test/java/com/bees/streaming/processor/init/InitApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,16 +80,27 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.2.3/bin/php" />
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2iEV5WNXNKR3WKwXGenlF3owThR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,10 +110,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckProcessor.executor": "Run",
+    "Docker.app.broker: Compose Deployment.executor": "Run",
+    "Docker.app.jobmanager: Compose Deployment.executor": "Run",
+    "Docker.app.postgres: Compose Deployment.executor": "Run",
+    "Docker.app.schema-registry: Compose Deployment.executor": "Run",
+    "Docker.app.sql-client: Compose Deployment.executor": "Run",
+    "Docker.app.taskmanager: Compose Deployment.executor": "Run",
+    "Docker.app: Compose Deployment.executor": "Run",
+    "Docker.infra.connect: Compose Deployment.executor": "Run",
+    "Docker.infra.control-center: Compose Deployment.executor": "Run",
+    "Docker.infra.jobmanager: Compose Deployment.executor": "Run",
+    "Docker.infra.rest-proxy: Compose Deployment.executor": "Run",
+    "Docker.infra.schema-registry: Compose Deployment.executor": "Run",
+    "Docker.infra.sql-client: Compose Deployment.executor": "Run",
+    "Docker.infra.taskmanager: Compose Deployment.executor": "Run",
     "Docker.infra: Compose Deployment.executor": "Run",
+    "Maven.processor [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
@@ -49,32 +140,103 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4091954",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/processor/src/test/java/com/bees" />
+      <recent name="$PROJECT_DIR$/app/processor/src/main/java/com/bees" />
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/infra" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CheckProcessor">
+    <configuration name="CheckProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bees.checks.CheckProcessor" />
+      <module name="processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bees.checks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
-      <deployment type="docker-compose.yml" />
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="infra: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+    <configuration name="app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
-          <option name="sourceFilePath" value="infra/docker-compose.yml" />
+          <option name="sourceFilePath" value="app/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.broker: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="broker" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="app/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="app/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.schema-registry: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="schema-registry" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="app/docker-compose.yml" />
         </settings>
       </deployment>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.infra: Compose Deployment" />
+        <item itemvalue="Application.CheckProcessor" />
+        <item itemvalue="Docker.app: Compose Deployment" />
+        <item itemvalue="Docker.app.schema-registry: Compose Deployment" />
+        <item itemvalue="Docker.app.broker: Compose Deployment" />
+        <item itemvalue="Docker.app.postgres: Compose Deployment" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +255,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677339939104</updated>
-      <workItem from="1719055546386" duration="7068000" />
+      <workItem from="1719055546386" duration="9506000" />
+      <workItem from="1719257403737" duration="4079000" />
+      <workItem from="1719465956919" duration="551000" />
+      <workItem from="1719466612655" duration="7000" />
+      <workItem from="1719466656839" duration="2991000" />
     </task>
     <servers />
   </component>

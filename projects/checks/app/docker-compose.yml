@@ -165,31 +165,30 @@ services:
       KAFKA_REST_SCHEMA_REGISTRY_URL: 'http://schema-registry:8081'
 
   jobmanager:
-    image: flink:latest
+    image: flink:java17
     ports:
       - "8085:8081"
-    command: standalone-job --job-classname com.job.ClassName [--job-id <job id>] [--jars /path/to/artifact1,/path/to/artifact2] [--fromSavepoint /path/to/savepoint] [--allowNonRestoredState] [job arguments]
-    #volumes:
-     # - /host/path/to/job/artifacts:/opt/flink/usrlib
+    command: jobmanager
     environment:
       - |
         FLINK_PROPERTIES=
         jobmanager.rpc.address: jobmanager
-        parallelism.default: 2        
+    volumes:
+      - flink_volume:/target
 
   taskmanager:
-    image: flink:latest
-    command: taskmanager
+    image: flink:java17
     depends_on:
       - jobmanager
+    command: taskmanager
+    scale: 1
     environment:
       - |
         FLINK_PROPERTIES=
         jobmanager.rpc.address: jobmanager
         taskmanager.numberOfTaskSlots: 2
-        parallelism.default: 2
-    #volumes:
-     # - /host/path/to/job/artifacts:/opt/flink/usrlib
+    volumes:
+      - flink_volume:/target
 
   sql-client:
     image: flink:latest
@@ -201,7 +200,8 @@ services:
         FLINK_PROPERTIES=
         jobmanager.rpc.address: jobmanager
         rest.address: jobmanager
-
+    volumes:
+      - flink_volume:/target
   postgres:
     image: postgres:13
     container_name: postgres
@@ -211,3 +211,5 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
       POSTGRES_DB: checks-processing
+volumes:
+  flink_volume:
